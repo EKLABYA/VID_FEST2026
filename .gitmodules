@@ -1,5 +1,8 @@
-[submodule "frontend"]
-  path=frontend
-  url=https://github.com/stream2026/Vid-Fest_Frontend.git
-  branch=main
-
+[submodule "Vid-Fest_Frontend"]
+	path = Vid-Fest_Frontend
+	url = https://github.com/stream2026/Vid-Fest_Frontend.git
+	branch = main
+[submodule "Vid-Fest-Backend"]
+	path = Vid-Fest-Backend
+	url = https://github.com/stream2026/Vid-Fest-Backend
+	branch = main
